@@ -5,6 +5,10 @@
 
 # 🙇 안녕하세요, Backend Engineer로 성장해나가고 있는 김예지입니다!
 
+**🏫 University**
+
+Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR 2021 - AUG 2026
+
 <!-- Body -->
 
 ## 🦾 Skills
