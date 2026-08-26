@@ -46,10 +46,12 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 
 ## 📊 Github Stacks 
   
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yezixx&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/yezixx" width="600" height="120" />
-  </a>
-</p>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yezixx&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yezixx"
+  width="600"
+  height="300"
+/>
+</a>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
 </div>
