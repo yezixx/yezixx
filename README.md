@@ -1,13 +1,34 @@
-<div align="center">
 <!-- Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
 
 # 🙇 안녕하세요, Backend Engineer로 성장해나가고 있는 김예지입니다!
 
 **🏫 University**
 
 Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR 2021 - AUG 2026
+
+**🏅 Activities & Achievements**
+
+- 👩‍💻 **SOLUX** | Mar 2024 – Feb 2025  
+  - Frontend, Backend Development 
+  - 🥉 3rd Place, Project Excellence Award · 2024.08
+<!-- 정처기 결과 나오면 추가
+**📜 Certificates**
+<table>
+<tr>
+<th align="center">Certificate</th>
+<th align="center">Date</th>
+</tr>
+</tr>
+<tr>
+<td align="center">ADsP</td>
+<td align="center">2024.09</td>
+</tr>
+<tr>
+<td align="center">SQLD</td>
+<td align="center">2025.06</td>
+</tr>
+</table>
+-->
 
 <!-- Body -->
 
@@ -39,7 +60,6 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 ## 🚌 Top Langs & Algorithm
 
 [![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=yezixx&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylow5)](https://solved.ac/profile/skylow5)
 
@@ -54,4 +74,3 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 />
 </a>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
-</div>
