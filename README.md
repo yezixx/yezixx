@@ -27,6 +27,10 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 <td align="center">SQLD</td>
 <td align="center">2025.06</td>
 </tr>
+<tr>
+<td align="center">정보처리기사</td>
+<td align="center">2026.09</td>
+</tr>
 </table>
 -->
 
