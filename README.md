@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
 
 # 🙇 안녕하세요, Backend Engineer로 성장해나가고 있는 김예지입니다!
 
@@ -28,7 +28,9 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚌 Top Langs & Algorithm
 
@@ -45,5 +47,5 @@
     <img src="https://render.gitanimals.org/lines/yezixx" width="600" height="120" />
   </a>
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
 </div>
