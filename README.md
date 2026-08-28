@@ -1,6 +1,6 @@
 <!-- Header -->
 
-# 🙇 안녕하세요, Backend Engineer로 성장해나가고 있는 김예지입니다!
+## 🙇 안녕하세요, Backend Engineer로 성장해나가고 있는 김예지입니다!
 
 **🏫 University**
 
