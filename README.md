@@ -45,6 +45,7 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 
 **🛠️ Infra and Tools**
 
@@ -64,8 +65,8 @@ Sookmyung Women’s University — Bachelor of Engineering in IT Engineering MAR
 ## 🚌 Top Langs & Algorithm
 
 [![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=yezixx&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylow5)](https://solved.ac/profile/skylow5)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylow5)](https://solved.ac/profile/skylow5)-->
 
 
 ## 📊 Github Stacks 
